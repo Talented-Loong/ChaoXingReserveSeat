@@ -1,11 +1,18 @@
 {
     "reserve": [
-        {"username": "xxxxxxxxxx",
-        "password": "xxxxxxxxx",
-        "time": ["21:00","22:00"],
-        "roomid":"3993",
-        "seatid":["111"],
-        "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday"]
+        {"username": "13653925821",
+        "password": "wyl2753419374",
+        "time": ["9:00","21:00"],
+        "roomid":"6670",
+        "seatid":["054"],
+        "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday","Saturday","Sunday"]
+    },
+        {"username": "13653925821",
+        "password": "wyl2753419374",
+        "time": ["9:00","21:00"],
+        "roomid":"66270",
+        "seatid":["057"],
+        "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday","Saturday","Sunday"]
     }
     ]
 }
